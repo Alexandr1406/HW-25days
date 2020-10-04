@@ -94,4 +94,11 @@ body, html {
 	letter-spacing: 2px;
 	padding: 25px 75px;
 	margin-top: 40px;
+	transition: all .5s;
+}
+
+.button:hover {
+	border-radius: 50px 0;
+	background: #eaa258;
+	color: #fff;
 }
